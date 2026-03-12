@@ -59,6 +59,7 @@ position:absolute;
 top:50%;
 left:250px;
 width:1340px;
+transform:translateY(-50%);
 display:flex;
 align-items:center;
 overflow:hidden;
