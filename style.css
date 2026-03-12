@@ -31,8 +31,6 @@ width:1920px;
 width:100%;
 height:auto;
 display:block;
-transform:scaleY(0.9);
-transform-origin:center;
 }
 
 #mask1,
