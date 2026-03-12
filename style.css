@@ -59,11 +59,10 @@ position:absolute;
 top:50%;
 left:250px;
 width:1340px;
-padding-top:10px;
 transform:translateY(-50%);
 display:flex;
 align-items:center;
-overflow:hidden;
+overflow:visible;
 }
 
 #bannerText{
@@ -72,10 +71,10 @@ font-weight:600;
 color:white;
 width:100%;
 line-height:1.25;
-max-height:2.5em;
-overflow:hidden;
 word-break:keep-all;
 text-transform:uppercase;
+overflow:visible;
+max-height:none;
 }
 
 /* LINEAS */
