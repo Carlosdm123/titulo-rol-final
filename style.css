@@ -59,7 +59,6 @@ position:absolute;
 top:50%;
 left:250px;
 width:1340px;
-transform:translateY(calc(-50% - 0px));
 display:flex;
 align-items:center;
 overflow:hidden;
