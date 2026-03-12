@@ -10,7 +10,7 @@ const bannerMask = document.createElement("div");
 
 bannerMask.style.position = "absolute";
 bannerMask.style.left = "0px";
-bannerMask.style.bottom = "83px";
+bannerMask.style.bottom = "79px";
 bannerMask.style.width = "1920px";
 bannerMask.style.height = "609px";
 bannerMask.style.overflow = "hidden";
