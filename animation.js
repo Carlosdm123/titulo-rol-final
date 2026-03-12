@@ -10,9 +10,9 @@ const bannerMask = document.createElement("div");
 
 bannerMask.style.position = "absolute";
 bannerMask.style.left = "0px";
-bannerMask.style.bottom = "79px";
+bannerMask.style.bottom = "83px";
 bannerMask.style.width = "1920px";
-bannerMask.style.height = "640px";
+bannerMask.style.height = "600px";
 bannerMask.style.overflow = "hidden";
 
 banner.parentNode.insertBefore(bannerMask, banner);
